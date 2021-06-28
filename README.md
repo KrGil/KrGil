@@ -6,7 +6,9 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-[F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
+<!--
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/></a>
+-->
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=ElasticSearch&logoColor=white"/></a>
