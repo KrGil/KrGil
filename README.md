@@ -61,4 +61,3 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
     <a href="https://github.com/DDIDTeam1">🍱 javaFlex presentation (2020.12.31)</a><br/>
     <a href="https://github.com/KrGil/DDIT_JAVA">📚 Started leaning Full stack development (2020.11.16)</a><br/>
 </details>
-:telephone_receiver:
