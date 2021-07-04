@@ -1,6 +1,6 @@
-
-<img align='right' src="https://media.giphy.com/media/JHCV2wNMQJWlGPthgK/source.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/source.gif" width="230">
 </em></p>
+
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 ### Hi, I'm [KrGil(eisen)!](https://anuraghazra.github.io) 👋
 
@@ -35,11 +35,10 @@ A passionate Junior developer who is taking a step towards from Korea.
 <a href="https://github.com/KrGil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrGil&layout=compact&theme=material-palenight" />
 </a>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-</em></p>
+<!--<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+</em></p> -->
 <img align='right' src="https://media.giphy.com/media/mA1lWnH0loTFzWYoMl/source.gif" width="230">
 </em></p>
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
