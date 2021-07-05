@@ -43,7 +43,7 @@ A passionate Junior developer who is taking a step towards from Korea.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const eisen = {
   pronouns: "he" | "him",
   code: [Java, JQuery, HTML, CSS, Python, Javascript],
   database: [SQL Developer, ElasticSearch],
