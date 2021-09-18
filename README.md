@@ -6,9 +6,9 @@
 
 A passionate Junior developer who is taking a step towards from Korea.
 [![GitHub Thaiane](https://img.shields.io/github/followers/KrGil?label=follow&style=social)](https://github.com/KrGil)
-- 🔭 I’m currently working on [porject gaia](https://github.com/ddit301/gaia)
+- 🔭 I’m currently working in [kaoni](https://www.kaoni.com/)
 - 🌱 I’m currently learning full-stack development
-- 📚 I'm looking forward to learn more Languages(C# with .NET!)
+- 📚 I'm looking forward to learn more C.S(OS especially!!)
 - 💬 Ask me about anything [here](https://github.com/KrGil/KrGil/issues)
 - 📫 How to reach me: kanjjang89@naver.com
 
