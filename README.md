@@ -6,7 +6,7 @@
 
 A passionate Junior developer who is taking a step towards from Korea.
 [![GitHub Thaiane](https://img.shields.io/github/followers/KrGil?label=follow&style=social)](https://github.com/KrGil)
-- 🔭 I’m currently working in [kaoni](https://www.kaoni.com/)
+- 🔭 I’m currently working in [Kaoni](https://www.kaoni.com/)
 - 🌱 I’m currently learning full-stack development
 - 📚 I'm looking forward to learn more C.S(OS especially!!)
 - 💬 Ask me about anything [here](https://github.com/KrGil/KrGil/issues)
