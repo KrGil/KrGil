@@ -59,7 +59,7 @@ const eisen = {
   <summary>2022 History</summary>
   📚 I am currently working in "OnITSystem"
 </details>
-<details open>
+<details markdown="1">
   <summary>2021 History</summary>
   <a href="https://github.com/ddit301/gaia">🌱 Project Gaia (2021.05.03~2021.06.28)</a><br/>
   <a href="https://github.com/DDITHelloWorld">🕹️ HelloWorld dditProject presentation (2021.03.08)</a><br/>
