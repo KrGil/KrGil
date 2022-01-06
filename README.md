@@ -6,9 +6,9 @@
 
 A passionate Junior developer who is taking a step towards from Korea.
 [![GitHub Thaiane](https://img.shields.io/github/followers/KrGil?label=follow&style=social)](https://github.com/KrGil)
-- 🔭 I’m currently working in [Kaoni](https://www.kaoni.com/)
+- 🔭 I’m currently working in "OnITSystem"(I am participating in some LG U+ project!)
 - 🌱 I’m currently learning full-stack development
-- :alien: I'm currently curious about Linux
+- :alien: I'm currently curious about Linux and MSA
 - 📚 I'm looking forward to learn more C.S(OS especially!!)
 - 💬 Ask me about anything [here](https://github.com/KrGil/KrGil/issues)
 - 📫 How to reach me: kanjjang89@naver.com
@@ -56,12 +56,18 @@ const eisen = {
 
  ### <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em> What i have done</p> 
 <details open>
-<summary>2021 History</summary>
-    <a href="https://github.com/ddit301/gaia">🌱 Project Gaia (2021.05.03~2021.06.28)</a><br/>
-    <a href="https://github.com/DDITHelloWorld">🕹️ HelloWorld dditProject presentation (2021.03.08)</a><br/>
-  </details>
+  <summary>2022 History</summary>
+  📚 I am currently working in "OnITSystem"
+</details>
+<details open>
+  <summary>2021 History</summary>
+  <a href="https://github.com/ddit301/gaia">🌱 Project Gaia (2021.05.03~2021.06.28)</a><br/>
+  <a href="https://github.com/DDITHelloWorld">🕹️ HelloWorld dditProject presentation (2021.03.08)</a><br/>
+  📚 I worked in [Kaoni](https://www.kaoni.com/)
+  I have contributed to the project called "AI기반 스마트 해양공단 사이트".
+</details>
 <details markdown="1">
   <summary>2020 History</summary>
-    <a href="https://github.com/DDIDTeam1">🍱 javaFlex presentation (2020.12.31)</a><br/>
-    <a href="https://github.com/KrGil/DDIT_JAVA">📚 Started leaning Full stack development (2020.11.16)</a><br/>
+  <a href="https://github.com/DDIDTeam1">🍱 javaFlex presentation (2020.12.31)</a><br/>
+  <a href="https://github.com/KrGil/DDIT_JAVA">📚 Started leaning Full stack development (2020.11.16)</a><br/>
 </details>
