@@ -11,7 +11,7 @@ A passionate Junior developer who is taking a step towards from Korea.
 - :alien: I'm currently curious about Linux and MSA
 - 📚 I'm looking forward to learn more C.S(OS especially!!)
 - 💬 Ask me about anything [here](https://github.com/KrGil/KrGil/issues)
-- 📫 How to reach me: kanjjang89@naver.com
+- 📫 How to reach me: kanjjang8989@gmail.com
 
 **Languages and Tools:**  
 
