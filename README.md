@@ -46,10 +46,9 @@ A passionate Junior developer who is taking a step towards from Korea.
 ```javascript
 const eisen = {
   pronouns: "he" | "him",
-  code: [Java, JQuery, HTML, CSS, Python, Javascript],
-  database: [SQL Developer, ElasticSearch],
-  tools: [Eclipse, VsCode, Bracket],
-  challenge: "I am doing the #dailyCommit challenge focused on java html"
+  code: [Java, JQuery, HTML, Javascript],
+  database: [Oracle, MySql, H2],
+  challenge: "I am doing the #dailyCommit challenge focused on jpa & spring"
 }
 ```
 ---
