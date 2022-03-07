@@ -29,10 +29,11 @@ A passionate Junior developer who is taking a step towards from Korea.
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-
+<!--
 <a href="https://github.com/KrGil">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrGil&show_icons=true&include_all_commits=true&theme=material-palenight" alt="KrGil's github stats" />
 </a>
+-->
 <a href="https://github.com/KrGil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrGil&layout=compact&theme=material-palenight" />
 </a>
