@@ -39,8 +39,8 @@ A passionate Junior developer who is taking a step towards from Korea.
 </a>
 <!--<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 </em></p> -->
-<img align='right' src="https://media.giphy.com/media/mA1lWnH0loTFzWYoMl/source.gif" width="230">
-</em></p>
+<!--<img align='right' src="https://media.giphy.com/media/mA1lWnH0loTFzWYoMl/source.gif" width="230">
+</em></p> -->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
