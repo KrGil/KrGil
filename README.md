@@ -28,7 +28,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 const eisen = {
   pronouns: "he" | "him",
   ability: [Java, JQuery, Javascript],
-  challenge: "#dailyCommit"
+  challenge: "#dailyCommit",
   moto: "#lifeRefactoring"
 }
 ```
