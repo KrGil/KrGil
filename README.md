@@ -29,6 +29,7 @@ const eisen = {
   pronouns: "he" | "him",
   ability: [Java, JQuery, Javascript],
   challenge: "#dailyCommit"
+  moto: "#lifeRefactoring"
 }
 ```
 ## 
