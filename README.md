@@ -3,7 +3,7 @@
 </em>[![GitHub Thaiane](https://img.shields.io/github/followers/KrGil?label=follow&style=social)](https://github.com/KrGil)</p>
 
 A passionate Junior developer who is taking a step towards.
-- 💬 Question : [here](https://github.com/KrGil/KrGil/issues)
+- 💬 Questions : [here](https://github.com/KrGil/KrGil/issues)
 - 📫 Touch : kanjjang8989@gmail.com
 - 🌱 Curiosity : 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
