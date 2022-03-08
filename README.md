@@ -1,72 +1,49 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKrGil&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <img align='right' src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/source.gif" width="230">
-</em></p>
+</em>[![GitHub Thaiane](https://img.shields.io/github/followers/KrGil?label=follow&style=social)](https://github.com/KrGil)</p>
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-### Hi, I'm [KrGil(eisen)!](https://anuraghazra.github.io) 👋
+A passionate Junior developer who is taking a step towards.
+- 💬 Question : [here](https://github.com/KrGil/KrGil/issues)
+- 📫 Touch : kanjjang8989@gmail.com
+- 🌱 Curiosity : 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a> 
 
-A passionate Junior developer who is taking a step towards from Korea.
-[![GitHub Thaiane](https://img.shields.io/github/followers/KrGil?label=follow&style=social)](https://github.com/KrGil)
-- 🔭 I’m currently working in "OnITSystem"(I am participating in some LG U+ project!)
-- 🌱 I’m currently learning full-stack development
-- :alien: I'm currently curious about Linux and MSA
-- 📚 I'm looking forward to learn more C.S(OS especially!!)
-- 💬 Ask me about anything [here](https://github.com/KrGil/KrGil/issues)
-- 📫 How to reach me: kanjjang8989@gmail.com
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>    
-
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 <!--
-<a href="https://github.com/KrGil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrGil&show_icons=true&include_all_commits=true&theme=material-palenight" alt="KrGil's github stats" />
-</a>
+https://simpleicons.org
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
 -->
-<a href="https://github.com/KrGil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrGil&layout=compact&theme=material-palenight" />
-</a>
-<!--<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-</em></p> -->
-<!--<img align='right' src="https://media.giphy.com/media/mA1lWnH0loTFzWYoMl/source.gif" width="230">
-</em></p> -->
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=Java&logoColor=red"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Mac-000000?style=flat-square&logo=apple&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=Linux&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/></a>
+## 
 
 ```javascript
 const eisen = {
   pronouns: "he" | "him",
-  code: [Java, JQuery, HTML, Javascript],
-  database: [Oracle, MySql, H2],
-  challenge: "I am doing the #dailyCommit challenge focused on jpa & spring"
+  ability: [Java, JQuery, Javascript],
+  challenge: "#dailyCommit"
 }
 ```
----
-
- ### <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em> What i have done</p> 
+## 
 <details open>
   <summary>2022 History</summary>
-  📚 I am currently working in "OnITSystem"
+  📚 Currently working for "OnITSystem"
   
-  🌱 I am participating in "차세대 UCube 구축" project and contributing to the internal interlocking MS(Micro Service) part.
+  🌱 Participating in "차세대 UCube 구축" project and contributing to the internal interlocking MS(Micro Service) part.
 </details>
 <details markdown="1">
   <summary>2021 History</summary>
   <a href="https://github.com/ddit301/gaia">🌱 Project Gaia (2021.05.03~2021.06.28)</a><br/>
   <a href="https://github.com/DDITHelloWorld">🕹️ HelloWorld dditProject presentation (2021.03.08)</a><br/>
-  📚 I worked in [Kaoni](https://www.kaoni.com/)
-  I have contributed to the project called "AI기반 스마트 해양공단 사이트".
+  📚 I worked for [Kaoni](https://www.kaoni.com/)
+  Contributed to the project called "AI기반 스마트 해양공단 사이트".
 </details>
 <details markdown="1">
   <summary>2020 History</summary>
