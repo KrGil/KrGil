@@ -35,9 +35,9 @@ const eisen = {
 ## 
 <details open>
   <summary>2022 History</summary>
-  📚 Currently working for "OnITSystem"
-  🌱 Participating in "차세대 UCube 구축" project and contributing to the internal interlocking MS(Micro Service) part.
-  🙅🏻‍♀️ I was Participated in [StopWar](https://stopwar.co.kr/) (2022.03.04~2022.04.09)
+  📚 Currently working for "OnITSystem"<br/>
+  🌱 Participating in "차세대 UCube 구축" project and contributing to the internal interlocking MS(Micro Service) part.<br/>
+  🙅🏻‍♀️ I was Participated in [StopWar](https://stopwar.co.kr/) (2022.03.04~2022.04.09)<br/>
 </details>
 <details markdown="1">
   <summary>2021 History</summary>
