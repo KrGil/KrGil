@@ -42,7 +42,7 @@ const eisen = {
 <details markdown="1">
   <summary>2021 History</summary>
   📚 I worked for [Kaoni](https://www.kaoni.com/)
-  Contributed to the project called "AI기반 스마트 해양공단 사이트".
+  Contributed to the project called "AI기반 스마트 해양공단 사이트".</br>
   <a href="https://github.com/ddit301/gaia">🌱 Project Gaia (2021.05.03~2021.06.28)</a><br/>
   <a href="https://github.com/DDITHelloWorld">🕹️ HelloWorld dditProject presentation (2021.03.08)</a><br/>
 </details>
