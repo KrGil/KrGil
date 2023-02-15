@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/source.gif" width="230">
 [![GitHub Thaiane](https://img.shields.io/github/followers/KrGil?label=follow&style=social)](https://github.com/KrGil)</p>
 
-개발자 장병길입니다.😎
+개발자 뱅타입니다.😎
 
 <https://jjam89.tistory.com/> · kanjjang89@naver.com
 
