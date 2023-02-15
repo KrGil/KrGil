@@ -6,7 +6,7 @@
 
 개발자 뱅타입니다.😎
 
-<https://jjam89.tistory.com/> · kanjjang89@naver.com
+<https://jjam89.tistory.com> · kanjjang89@naver.com
 
 ![java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)   ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![linux](https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=Linux&logoColor=white) 
 
